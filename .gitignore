@@ -1,0 +1,59 @@
+# Ignore common secret files
+.env
+*.env
+*.key
+*.pem
+*.p12
+*.crt
+*.cer
+*.der
+*.pfx
+*.enc
+secrets.*
+config/secrets/*
+keys/
+certs/
+private/
+**/config.json
+**/secrets.json
+
+# Ignore SSH keys
+id_rsa
+id_rsa.pub
+*.ssh
+
+# Ignore API keys and credentials
+*.token
+*.credentials
+*.auth
+*.passwd
+*.password
+*.db
+*.sqlite
+*.pgpass
+
+# Ignore log files
+# *.log
+# logs/
+# debug.log
+
+# Ignore cloud credentials
+.aws/
+.gcp/
+.azure/
+.kube/
+.npmrc
+docker-compose.override.yml
+
+# Ignore IDE-specific and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore Node.js / Python environment files
+node_modules/
+venv/
+.envrc
+
+

@@ -1,0 +1,225 @@
+(agent_env) Harshit_Professional@hotspot Phidata_agents % python openai_agent.py
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Here's a floral skirt option under $40 in size S from Target that you may be interested in:
+
+### Product Details:
+- **Product Name**: Allegra K Women's Floral Elastic Waist Tiered Ruffle Boho Midi Skirt
+- **Price**: $25.95 - $35.89 (Sale)
+
+### Additional Information:
+- **Sizes Available**: S (Please check the specific product page for stock availability)
+- **Discount Code**: You may try using the code `SAVE10` during checkout to apply any available discounts.
+- **Shipping**: Same Day Delivery, Drive Up or Order Pickup options are available.
+- **Purchase Link**: [Visit Target](https://www.target.com/c/skirts-women-s-clothing/floral/-/N-5xtc4Z1ix6u)
+
+Please check the specific product page for the most accurate stock and size information, as well as the ability to apply discount codes.
+Saved trajectory: sample_trajectories/task_a.json
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Here are some options for white sneakers in size 8 under $70 that can be delivered quickly:
+
+### Option 1: Nike
+- **Store**: Nike
+- **Price**: Under $70
+- **Sizes Available**: Size 8
+- **Shipping**: Free delivery and returns, check the website for estimated delivery dates to ensure arrival by Friday.
+- **Purchase Link**: [Nike White Shoes Under $70](https://www.nike.com/w/under-70-white-shoes-4g797z8efwtzabelozy7ok)
+
+### Option 2: Zappos
+- **Store**: Zappos
+- **Price**: $70.00 (Various styles available)
+- **Sizes Available**: Size 8
+- **Shipping**: Free shipping with fast delivery, please verify on their site for delivery by Friday.
+- **Purchase Link**: [Zappos Women's Size 8 White Sneakers](https://www.zappos.com/women-white-sneakers-athletic-shoes/CK_XARC81wFCAQ56AtQEggECoRjAAQHiAgUBAggYDw.zso)
+
+Please verify the specific product page for availability and exact delivery details. Be sure to check if there are any promotions or membership benefits available for expedited shipping.
+Saved trajectory: sample_trajectories/task_b.json
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Here are some options for casual denim jackets under $80 that might interest you:
+
+### Option 1: Gap Factory
+- **Price**: Various options under $80
+- **Description**: Lightweight denim jackets are available in different sizes and washes.
+- **Purchase Link**: [Gap Factory Denim Jackets](https://www.gapfactory.com/shop/lightweight-denim-jacket-0abz07b)
+
+### Option 2: Amazon
+- **Price**: Under $50 for selected styles
+- **Description**: Stylish denim jackets including brands like Levi's and Wrangler.
+- **Purchase Link**: [Amazon Denim Jackets](https://www.realsimple.com/jean-jackets-under-50-amazon-august-2024-8704149)
+
+### Option 3: Amazon Men's Collection
+- **Example Price**: $36.99 for a casual regular fit button-down long sleeve jean trucker jacket.
+- **Purchase Link**: [Amazon Men's Denim Jackets](https://www.amazon.com/Mens-Denim-Jackets/b?node=2476495011)
+
+Please verify the specific store pages for more options, sizes, availability, and shipping details to find the best deal that suits your needs.
+Saved trajectory: sample_trajectories/task_c.json
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Yes, ZARA accepts returns, and they strive to make the process hassle-free for customers. Here are the key points about ZARA's return policy:
+
+- **Return Window**: ZARA usually allows returns within 30 days of the purchase date.
+- **Return Methods**: You can return products in-store or by mailing them back if purchased online.
+- **Refunds**: Refunds are typically issued to the original payment method once the return has been processed.
+- **Conditions**: Items should be in their original condition, with tags attached and accompanied by a receipt.
+
+For the most accurate and up-to-date information on returns, it's recommended to review Zara's official return policy on their website or contact their customer service.
+Saved trajectory: sample_trajectories/task_d.json
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Here are some options for waterproof hiking backpacks under $100 with free shipping, along with information about the possibility of using a discount code:
+
+### Option 1: REI Co-op
+- **Store**: REI
+- **Options**: Various waterproof hiking backpacks under $100
+- **Shipping**: Free shipping available
+- **Link**: [REI Hiking Backpacks Under $100](https://www.rei.com/s/hiking-backpacks-under-100)
+
+### Option 2: Zappos
+- **Store**: Zappos
+- **Options**: Various waterproof backpacks
+- **Shipping**: Free shipping on all items
+- **Link**: [Zappos Waterproof Backpacks](https://www.zappos.com/waterproof-backpack)
+
+### Discount Code: 
+- **Code 'HIKER20'**: While I found a source for discount codes at Hiker Direct, including offers for discounts and free shipping, there is no specific mention of the code 'HIKER20' universally valid at all stores. Please verify the code's applicability directly on the store's checkout page or by contacting customer service.
+- **Link**: [Hiker Direct Promo Codes](https://hikerdirect.knoji.com/promo-codes/)
+
+Please ensure to check the specific terms and conditions for any discount codes and confirm shipping details on the respective websites.
+Saved trajectory: sample_trajectories/task_e.json
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Here are some options for floral skirts under $40 in size S, along with information on the availability of the discount code 'SAVE10':
+
+### Option 1: Target
+- **Product**: Alegra K Women's Floral Elastic Waist Tiered Ruffle Boho Midi Skirt
+- **Price**: $32.39 - $35.99 (on sale)
+- **Sizes**: Various sizes, likely including Size S
+- **Store**: Target
+- **Discount Code 'SAVE10'**: Discount codes can vary by promotion and are not specifically mentioned on the page. Check during checkout if the code is applicable.
+- **Link**: [Target Floral Skirts](https://www.target.com/c/skirts-women-s-clothing/floral/-/N-5xtc4Z1ix6u)
+
+### Option 2: Amazon
+- **Product**: Various Women's Floral Midi Skirts
+- **Price**: $10 and up
+- **Sizes**: Various sizes, including likely availability in Size S
+- **Discount**: 10% coupon (applied at checkout on some sizes/colors)
+- **Link**: [Amazon Skirts Under $10](https://www.amazon.com/Skirts-Under-10/s?k=Skirts+Under+$10)
+
+### General Tips:
+- **Availability**: Sizes and availability may vary. Check the specific product page for real-time availability in Size S.
+- **Discount Code 'SAVE10'**: Not specifically listed for these stores, but try applying it at checkout to see if any discounts apply. Alternatively, inquire about current promotions or contact customer service for more information.
+
+Make sure to confirm the sizes and promotions during your purchase process for the most accurate details.
+Saved trajectory: sample_trajectories/task_a.json
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Here are some options for white sneakers under $70 in size 8, with possibilities of fast delivery by Friday:
+
+### Option 1: Nike
+- **Product**: Various white sneakers available
+- **Price**: Under $70
+- **Sizes**: Likely available in Size 8
+- **Shipping**: Free delivery options
+- **Link**: [Nike White Sneakers Under $70](https://www.nike.com/w/under-70-white-shoes-4g797z8efwtzabelozy7ok)
+
+### Option 2: Zappos
+- **Product**: Various styles of white sneakers
+- **Price**: Starting from $70
+- **Sizes**: Includes Size 8
+- **Shipping**: Free shipping with fast delivery options
+- **Link**: [Zappos White Sneakers](https://www.zappos.com/white-sneakers)
+
+### Option 3: Target
+- **Product**: Sneakers & athletic shoes in white
+- **Price**: Great low prices, likely some options under $70
+- **Sizes**: Including potential availability in Size 8
+- **Shipping**: Options for Same Day Delivery, Drive Up, or Order Pickup
+- **Link**: [Target Women's White Sneakers](https://www.target.com/c/sneakers-athletic-shoes-womens/white/-/N-55l4bZgup4zc5xkwv)
+
+### Delivery Information:
+- For the fastest delivery, consider checking the specific delivery options and cut-off times for orders on each retailer's site.
+- If specific "by Friday" delivery is required, confirm directly during checkout or via customer support to ensure it aligns with your timeline.
+
+These options should help you find affordable and timely options for white sneakers. Make sure to verify size availability and delivery speeds directly on the retailer's website.
+Saved trajectory: sample_trajectories/task_b.json
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Here are some options for casual denim jackets at a better price point than the $80 option from H&M:
+
+### Option 1: Amazon
+- **Product**: Riders by Lee Indigo Denim Jacket
+- **Price**: $29
+- **Discount**: Originally priced at $35
+- **Shipping**: Free delivery options available
+- **Link**: [Amazon Denim Jackets](https://www.amazon.com/denim-jackets-men/s?k=denim+jackets+for+men)
+
+### Option 2: Amazon
+- **Product**: CHARTOU Men's Denim Jacket
+- **Price**: $36.99
+- **Shipping**: Free delivery; possible fast delivery options
+- **Link**: [CHARTOU Denim Jacket on Amazon](https://www.amazon.com/denim-jackets-men/s?k=denim+jackets+for+men)
+
+### Option 3: Gap Factory
+- **Product**: babyGap | Disney Mickey Mouse Icon Denim Jacket
+- **Price**: $39.99 (after 33% discount)
+- **Link**: [Gap Factory Casual Denim Jacket](https://www.gapfactory.com/shop/casual-denim-jacket)
+
+These options are all under $80 and may offer better deals. Be sure to verify the specifics such as size availability and delivery options on the retailers' websites.
+Saved trajectory: sample_trajectories/task_c.json
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Yes, ZARA does accept returns, and their process is designed to be relatively hassle-free. Here's a summary of their return policy:
+
+- **Return Period**: You have 30 days to return items, starting from the shipment date for online purchases and from the purchase date for store purchases.
+- **Condition**: Items must be in their original condition with all labels attached.
+- **Location**: Returns must be made in the same market/region where the purchase was made.
+
+For detailed instructions and to initiate a return, you can visit their [Help Center](https://www.zara.com/us/en/help-center/HowToReturn). This should provide you with the necessary information to handle a return if needed.
+Saved trajectory: sample_trajectories/task_d.json
+ERROR    Error from OpenAI API: Error code: 400 - {'error': {'message': "Invalid schema for function 'scrape_website': In context=(), 'additionalProperties' is required to be supplied and to be false.",  
+         'type': 'invalid_request_error', 'param': 'tools[0].function.parameters', 'code': 'invalid_function_parameters'}}                                                                                  
+ERROR    Reasoning error: You tried to pass a `BaseModel` class to `chat.completions.create()`; You must use `beta.chat.completions.parse()` instead                                                        
+Here's a detailed overview of waterproof hiking backpacks under $100, options for free shipping, and the ability to use the promo code 'HIKER20':
+
+### Backpack Options Under $100 with Free Shipping:
+1. **REI Co-op**
+   - **Product**: Various hiking backpacks under $100
+   - **Price Range**: Under $100
+   - **Shipping**: Free shipping available
+   - **Details**: Features waterproof options and a range of sizes
+   - **Link**: [REI Co-op Hiking Backpacks](https://www.rei.com/s/hiking-backpacks-under-100)
+   
+2. **Outdoorspro**
+   - **Product**: Various hiking backpacks with waterproof compartments
+   - **Price Range**: Under $100
+   - **Details**: Includes a purging valve for multi-use (can be used as a cooler or shower)
+   - **Link**: [Outdoorspro Reviewed Backpacks](https://outdoorspro.org/best-hiking-backpack-under-100/)
+
+3. **eBay**
+   - **Product**: Wide range of waterproof hiking backpacks
+   - **Price Range**: Starting under $75
+   - **Shipping**: Free shipping on many items
+   - **Link**: [eBay Waterproof Hiking Backpacks](https://www.ebay.com/b/Waterproof-Hiking-Backpacks/181379/bn_73164805)
+
+### Promo Code 'HIKER20':
+- The 'HIKER20' code is identified on multiple websites for different outdoor and hiking products but requires checking if it applies to the specific backpack retailer.
+- Ensure to enter this code during checkout on relevant sites to see if the discount applies.
+
+### Additional Comparisons and Savings:
+- Check for sales on other platforms like [Amazon for Waterproof Backpacks](https://www.amazon.in/waterproof-hiking-backpack/s?k=waterproof+hiking+backpack).
+- You may need to manually check if 'HIKER20' or any similar code specific to the retailer applies.
+
+These options should provide you with affordable choices and savings on your hiking backpack purchase. Be sure to check each retailer's terms for promo codes and shipping policies directly on their website.
+Saved trajectory: sample_trajectories/task_e.json
+(agent_env) Harshit_Professional@hotspot Phidata_agents % 

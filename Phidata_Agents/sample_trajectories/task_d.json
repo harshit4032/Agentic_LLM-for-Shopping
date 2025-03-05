@@ -1,0 +1,6 @@
+{
+  "agent_name": "OpenAI",
+  "task_name": "Task D",
+  "question": "I want to buy a cocktail dress from ZARA, but only if returns are hassle-free. Do they accept returns?",
+  "answer": "Yes, ZARA does accept returns. Here are the key points about their return policy:\n\n- You have 30 days from the shipping date to manage a return.\n- Items must be in their original condition and packaging.\n\nFor hassle-free returns, you can visit their official return policy page for more detailed instructions: [ZARA Return Policy](https://www.zara.com/in/en/help-center/HowToReturn)."
+}

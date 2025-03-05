@@ -1,4 +1,5 @@
 <div align="justify>
+  
   # Virtual Shopping Assistant using Language Agent Tree Search (LATS)
 
 ## Overview

@@ -1,6 +1,6 @@
 
 
-## **Features of the Multi-Agent, Multi-Tool, Self-Improvement Shopping Assistant**
+## **Features of the Multi-Agent, Multi-Tool, Self-Improvement Shopping Assistant using PhiData Agent**
 
 This project showcases an advanced **Agentic LLM-based Shopping Assistant** built with **multi-agent**, **multi-tool**, and **self-improvement** capabilities to solve complex fashion e-commerce queries. Below are the key features highlighted from the system:
 

@@ -1,6 +1,6 @@
 <div align="justify>
   
-  # Virtual Shopping Assistant using Language Agent Tree Search (LATS)
+# Virtual Shopping Assistant using Language Agent Tree Search (LATS)
 
 ## Overview
 This virtual shopping assistant is designed for fashion e-commerce platforms, leveraging advanced LLMs, search tools, and decision-making techniques to enhance the shopping experience. The assistant can search for fashion products, compare prices, check for discounts, estimate shipping times, and verify return policies.

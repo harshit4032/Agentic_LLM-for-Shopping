@@ -31,9 +31,9 @@ I used different different techniques for building an agent such as ReAct: Syner
 ## About agents and techniques
 In this project i’ve used different LLMs and techniques to obtained information to provide coherent and helpful responses from the agent. 
 First i build an ReAct agent that provide the LLMs power to use tools for extracting external knowledge and use those knowledge to give better and actual factual response instead of halucinated response. In this agent/technique i observed that the agent was able to give the easy and straightforward anwers but failed complete complex task many times. It wasn’t able to use the tools properly and call the same tool to and fro again and again and did’nt reach to an end as shown in flowchart below and starts to halucinates and reached to a dead end for example if i ask it to “Find a floral skirt under $40 in size S. Is it in stock, and can I apply a discount code ‘SAVE10’?” it give me some results but the links it provided me was not appropriate, it gave the information good in structure but failed to use multiple and complex tools. It gave the answer  “Reached step limit without final answer.” When i program it to multi step reasoning. For complete trajectories go to [ReAct/ReAct_process.txt](https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/ReAct/output.txt). Then models i used in this was Gpt-3.5-turbo and Llama-3.2:latest (wasn't even able to call and use simple tools).
-
-![ReAct_dead_end_Problem](https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/ReAct/ReAct_Problem.drawio.png)
-
+<p align="center">
+      <img src="https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/ReAct/ReAct_Problem.drawio.png" alt="ReAct_dead_end_Problem" width="30%"/>
+</p>
 Then i tried the multi-step reasoning and self-improvement process of the agent design for complex product search tasks. The flow chart is shown below. 
 
 ```mermaid
@@ -81,7 +81,7 @@ Compared to previous agents like ReAct or standard multi-step agents, LATS is mo
 The last but not the least agent i tried is Multitooling Multiagent /self improving agent. The idea came from the Phidata agent as it was able to generate actual and accurate products with functional links. The idea is to use multiple agents who’s task is to use tools for a priticular task such as E-Commerce Search Aggregator, Shipping Time Estimator, Discount / Promo Checker, Competitor Price Comparison and Return Policy Checker that is supervised by an one supervisor as shown below which helps in better, more accurate and more reliable responses.  I made the agent using Gpt-3.5-turbo and Gpt-4o. 
 
 <p align="center">
-    <img src="https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/langchain/tool_agent.png" alt="Tool Agent flowchart" width="20%"/>
+    <img src="https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/langchain/tool_agent.png" alt="Tool Agent flowchart" width="30%"/>
     <img src="https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/langchain/image.png" alt="Multitool Multiagent agent flowchart" width="70%"/>
 </p>
 

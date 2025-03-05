@@ -1,8 +1,6 @@
-### ✅ Here is the full `README.md` in markdown format:
 
----
 
-```markdown
+
 # WebShop Reasoning Agent
 
 This project implements a **Self-Improvement Multi-Step Reasoning LLM Agent** designed to handle complex product search tasks using multi-step reasoning, dynamic tool use, adaptive reflection, and self-improvement inspired by **ReST meets ReAct** and **Chain of Tools** methodologies.
@@ -142,21 +140,24 @@ The agent will:
 
 ---
 
-## Credits
+## References
 
 This project is inspired by:
 - **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**.
-- **Chain of Tools: Large Language Model is an Automatic Multi-tool Learner**.
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
+ ```
+  @article{yao2023rest,
+  title={ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent},
+  author={Yao, Shunyu and Yu, Dian and Zhao, Kaixin and Narasimhan, Karthik and R{\'e}, Christopher},
+  journal={arXiv preprint arXiv:2312.03667},
+  year={2023}}
 ```
 
----
+- **Chain of Tools: Large Language Model is an Automatic Multi-tool Learner**.
+  ```
+  @article{zhou2023chain,
+  title={Chain of Tools: Large Language Model is an Automatic Multi-tool Learner},
+  author={Zhou, Weilin and Wang, Kun and Sun, Yuhui and Yin, Xiaojie and Zhuang, Zhiqiang and Shao, Yuzhong and others},
+  journal={arXiv preprint arXiv:2305.03659},
+  year={2023}}
+```
 
-### ✅ Would you like me to:
-- Save this as `README.md` into your project directly?
-- Customize any sections (author, repository links, or examples)?

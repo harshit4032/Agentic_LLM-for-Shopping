@@ -81,7 +81,7 @@ Compared to previous agents like ReAct or standard multi-step agents, LATS is mo
 The last but not the least agent i tried is Multitooling Multiagent /self improving agent. The idea came from the Phidata agent as it was able to generate actual and accurate products with functional links. The idea is to use multiple agents who’s task is to use tools for a priticular task such as E-Commerce Search Aggregator, Shipping Time Estimator, Discount / Promo Checker, Competitor Price Comparison and Return Policy Checker that is supervised by an one supervisor as shown below which helps in better, more accurate and more reliable responses.  I made the agent using Gpt-3.5-turbo and Gpt-4o. 
 
 <p align="center">
-    <img src="https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/langchain/tool_agent.png" alt="Tool Agent flowchart" width="30%"/>
+    <img src="https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/langchain/tool_agent.png" alt="Tool Agent flowchart" width="25%"/>
     <img src="https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/langchain/image.png" alt="Multitool Multiagent agent flowchart" width="70%"/>
 </p>
 

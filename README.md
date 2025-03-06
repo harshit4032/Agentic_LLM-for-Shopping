@@ -105,7 +105,8 @@ After analyzing these agents, models/LLMs, and techniques many improvements can 
   ![RL working flow](https://github.com/harshit4032/Agentic_LLM-for-Shopping/blob/main/1Y0TDuXNyywjqqr5l5GkMQQ.webp)
 
 - Knowledge Distillation and Quantization techniques can be used to extract the representations/knowledge from bigger agents/LLMs or system of agents to smaller ones which helps in reducing the size and increasing the inference of the whole system/agent without much costing the performance. It will reduce the cost of deploying the agent which helps in scaling the production while reducing the cost.
-- There is plenty of room for using RL techniques with LLM agents. To my knowledge, no one is yet working on experimenting different different RL/DRL techniques with LLMs. We can use state–of–the–art RL techniques like A3C, PPO, TD3 algorithms for solving complex tasks in complex environments.
+- There is plenty of room for using RL techniques with LLM agents. To my knowledge, no one is yet working on experimenting different different RL/DRL techniques with LLMs. We can use state–of–the–art RL techniques like A3C, PPO, and TD3 algorithms for solving complex tasks in complex environments.
+- We can improve the tools for example these days many small businesses owner works from social media platforms and sell their products so we can add and develop a tool that can search through social media networks to suggest the exclusive products that best fit the user and Suggest outfits based on browsing habits. Additionally, we can use ML/DL models for tools like shipping time estimators to provide better and more robust predictions. 
 
 These are some of the future works that can be used, according to me in improving the performance of agents in complex environments and make them better in existing environments.
 

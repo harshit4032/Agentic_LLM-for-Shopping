@@ -12,7 +12,7 @@ In this project, I’ve gone through from different different platforms and tech
 
 ### Libraries for model/agent development
 #### Libraries:
-LangChain, Ollama, Gorq, OpenAI, HuggingFace, LangGraph, LangSmithand PhiData
+LangChain, Ollama, Gorq, OpenAI, HuggingFace, LangGraph, LangSmith and PhiData
 The above-mentioned libraries are used for building an agent and model.
 
 ### Model/LLMs used:
